@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Eyal 👋
 
 <!--
-**eyalfuks51/eyalfuks51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a builder making the jump from Operations Management to Product & SaaS development. 
+I specialize in rapid full-stack development—using AI tools like Claude Code and Cursor to ship actual products, not just demos. I care about logic, data, and getting things to production.
 
-Here are some ideas to get you started:
+🛠️ **In the trenches right now:**
+* **Bracket Run [Live]:** A gamified prediction platform for private sports brackets. Launched to production with 180 active users on day one. [bracketrun.app](https://bracketrun.app/)
+* **Guesto:** A SaaS platform for interactive, template-based event invitations featuring RSVP management and WhatsApp automations.
+* **Polymarket Scout:** An AI-powered trading bot for prediction markets.
+* **Idea Validation Pipeline:** A multi-agent CLI tool for stress-testing business concepts.
+* **Recipes App:** An AI-driven web app for scraping and organizing social media recipes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let's connect:** www.linkedin.com/in/eyal-fuks
+
+
