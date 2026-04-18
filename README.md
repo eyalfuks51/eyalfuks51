@@ -1,6 +1,5 @@
 ### Hi, I'm Eyal 👋
 
-<!--
 I’m a builder making the jump from Operations Management to Product & SaaS development. 
 I specialize in rapid full-stack development—using AI tools like Claude Code and Cursor to ship actual products, not just demos. I care about logic, data, and getting things to production.
 
@@ -11,6 +10,4 @@ I specialize in rapid full-stack development—using AI tools like Claude Code a
 * **Idea Validation Pipeline:** A multi-agent CLI tool for stress-testing business concepts.
 * **Recipes App:** An AI-driven web app for scraping and organizing social media recipes.
 
-📫 **Let's connect:** www.linkedin.com/in/eyal-fuks
-
-
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/eyal-fuks)
