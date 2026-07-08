@@ -1,4 +1,4 @@
-Hi, I'm Eyal 👋
+Hi, I'm Eyal
 
 I’m a builder transitioning from Operations Management into Product & SaaS development.
 
